@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import numpy
 import nibabel
 from scipy.io import loadmat
